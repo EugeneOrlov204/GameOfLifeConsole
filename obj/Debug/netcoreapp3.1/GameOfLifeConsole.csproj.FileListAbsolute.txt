@@ -1,0 +1,13 @@
+E:\MyCode\C#\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.exe
+E:\MyCode\C#\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.deps.json
+E:\MyCode\C#\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.runtimeconfig.json
+E:\MyCode\C#\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.runtimeconfig.dev.json
+E:\MyCode\C#\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.dll
+E:\MyCode\C#\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.pdb
+E:\MyCode\C#\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.csprojAssemblyReference.cache
+E:\MyCode\C#\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.AssemblyInfoInputs.cache
+E:\MyCode\C#\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.AssemblyInfo.cs
+E:\MyCode\C#\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.csproj.CoreCompileInputs.cache
+E:\MyCode\C#\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.dll
+E:\MyCode\C#\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.pdb
+E:\MyCode\C#\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.genruntimeconfig.cache
